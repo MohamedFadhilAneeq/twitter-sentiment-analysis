@@ -1,5 +1,10 @@
 # Twitter Sentiment Analysis
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![NLP](https://img.shields.io/badge/NLP-TFIDF%20%7C%20LogReg-lightblue)
+![Colab](https://img.shields.io/badge/Notebook-GoogleColab-yellow)
+![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)
+
 This project analyzes the sentiment of tweets (positive or negative) using machine learning techniques. It uses the **Sentiment140 dataset** to train a model that can classify the polarity of tweets based on their text content.
 
 ## 🧠 Project Highlights
